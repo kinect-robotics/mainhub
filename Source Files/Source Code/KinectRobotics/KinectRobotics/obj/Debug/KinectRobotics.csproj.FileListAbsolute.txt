@@ -1,0 +1,189 @@
+C:\Users\ADMIN\Documents\Visual Studio 2012\Projects\KinectRobotics\KinectRobotics\bin\Debug\KinectRobotics.exe.config
+C:\Users\ADMIN\Documents\Visual Studio 2012\Projects\KinectRobotics\KinectRobotics\obj\Debug\KinectRobotics.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Documents\Visual Studio 2012\Projects\KinectRobotics\KinectRobotics\obj\Debug\App.g.cs
+C:\Users\ADMIN\Documents\Visual Studio 2012\Projects\KinectRobotics\KinectRobotics\obj\Debug\KinectRobotics_MarkupCompile.cache
+C:\Users\ADMIN\Documents\Visual Studio 2012\Projects\KinectRobotics\KinectRobotics\bin\Debug\KinectInteraction170_32.dll
+C:\Users\ADMIN\Documents\Visual Studio 2012\Projects\KinectRobotics\KinectRobotics\bin\Debug\KinectInteraction170_64.dll
+C:\Users\ADMIN\Documents\Visual Studio 2012\Projects\KinectRobotics\KinectRobotics\bin\Debug\KinectRobotics.exe
+C:\Users\ADMIN\Documents\Visual Studio 2012\Projects\KinectRobotics\KinectRobotics\bin\Debug\KinectRobotics.pdb
+C:\Users\ADMIN\Documents\Visual Studio 2012\Projects\KinectRobotics\KinectRobotics\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\ADMIN\Documents\Visual Studio 2012\Projects\KinectRobotics\KinectRobotics\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\ADMIN\Documents\Visual Studio 2012\Projects\KinectRobotics\KinectRobotics\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\ADMIN\Documents\Visual Studio 2012\Projects\KinectRobotics\KinectRobotics\bin\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\ADMIN\Documents\Visual Studio 2012\Projects\KinectRobotics\KinectRobotics\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\ADMIN\Documents\Visual Studio 2012\Projects\KinectRobotics\KinectRobotics\obj\Debug\MainWindow.baml
+C:\Users\ADMIN\Documents\Visual Studio 2012\Projects\KinectRobotics\KinectRobotics\obj\Debug\MainWindow.g.cs
+C:\Users\ADMIN\Documents\Visual Studio 2012\Projects\KinectRobotics\KinectRobotics\obj\Debug\KinectRobotics.g.resources
+C:\Users\ADMIN\Documents\Visual Studio 2012\Projects\KinectRobotics\KinectRobotics\obj\Debug\KinectRobotics.Properties.Resources.resources
+C:\Users\ADMIN\Documents\Visual Studio 2012\Projects\KinectRobotics\KinectRobotics\obj\Debug\KinectRobotics.csproj.GenerateResource.Cache
+C:\Users\ADMIN\Documents\Visual Studio 2012\Projects\KinectRobotics\KinectRobotics\obj\Debug\KinectRobotics.exe
+C:\Users\ADMIN\Documents\Visual Studio 2012\Projects\KinectRobotics\KinectRobotics\obj\Debug\KinectRobotics.pdb
+C:\Users\ADMIN\Documents\Visual Studio 2012\Projects\KinectRobotics\KinectRobotics\obj\Debug\ArmControl.baml
+C:\Users\ADMIN\Documents\Visual Studio 2012\Projects\KinectRobotics\KinectRobotics\obj\Debug\ArmControl.g.cs
+C:\Users\ADMIN\Documents\Visual Studio 2012\Projects\KinectRobotics\KinectRobotics\obj\Debug\KinectRobotics_MarkupCompile.lref
+C:\Users\ADMIN\Documents\Visual Studio 2012\Projects\KinectRobotics\KinectRobotics\obj\Debug\BaseControl.baml
+C:\Users\ADMIN\Documents\Visual Studio 2012\Projects\KinectRobotics\KinectRobotics\obj\Debug\BaseControl.g.cs
+C:\Users\ADMIN\Documents\Visual Studio 2012\Projects\KinectRobotics\KinectRobotics\bin\Debug\Microsoft.Samples.Kinect.SwipeGestureRecognizer.dll
+C:\Users\ADMIN\Documents\Visual Studio 2012\Projects\KinectRobotics\KinectRobotics\obj\Debug\KinectRobotics_Content.g.cs
+C:\Users\Kiran N\Desktop\FInal code\KinectRobotics\KinectRobotics\bin\Debug\KinectRobotics.exe.config
+C:\Users\Kiran N\Desktop\FInal code\KinectRobotics\KinectRobotics\obj\Debug\KinectRobotics.exe
+C:\Users\Kiran N\Desktop\FInal code\KinectRobotics\KinectRobotics\obj\Debug\KinectRobotics.pdb
+C:\Users\Kiran N\Desktop\FInal code\KinectRobotics\KinectRobotics\bin\Debug\KinectInteraction170_32.dll
+C:\Users\Kiran N\Desktop\FInal code\KinectRobotics\KinectRobotics\bin\Debug\KinectInteraction170_64.dll
+C:\Users\Kiran N\Desktop\FInal code\KinectRobotics\KinectRobotics\bin\Debug\KinectRobotics.exe
+C:\Users\Kiran N\Desktop\FInal code\KinectRobotics\KinectRobotics\bin\Debug\KinectRobotics.pdb
+C:\Users\Kiran N\Desktop\FInal code\KinectRobotics\KinectRobotics\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Kiran N\Desktop\FInal code\KinectRobotics\KinectRobotics\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Kiran N\Desktop\FInal code\KinectRobotics\KinectRobotics\bin\Debug\Microsoft.Samples.Kinect.SwipeGestureRecognizer.dll
+C:\Users\Kiran N\Desktop\FInal code\KinectRobotics\KinectRobotics\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Kiran N\Desktop\FInal code\KinectRobotics\KinectRobotics\bin\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Kiran N\Desktop\FInal code\KinectRobotics\KinectRobotics\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Kiran N\Desktop\FInal code\KinectRobotics\KinectRobotics\obj\Debug\KinectRobotics.csprojResolveAssemblyReference.cache
+C:\Users\Kiran N\Desktop\FInal code\KinectRobotics\KinectRobotics\obj\Debug\ArmControl.baml
+C:\Users\Kiran N\Desktop\FInal code\KinectRobotics\KinectRobotics\obj\Debug\BaseControl.baml
+C:\Users\Kiran N\Desktop\FInal code\KinectRobotics\KinectRobotics\obj\Debug\ArmControl.g.cs
+C:\Users\Kiran N\Desktop\FInal code\KinectRobotics\KinectRobotics\obj\Debug\BaseControl.g.cs
+C:\Users\Kiran N\Desktop\FInal code\KinectRobotics\KinectRobotics\obj\Debug\MainWindow.g.cs
+C:\Users\Kiran N\Desktop\FInal code\KinectRobotics\KinectRobotics\obj\Debug\App.g.cs
+C:\Users\Kiran N\Desktop\FInal code\KinectRobotics\KinectRobotics\obj\Debug\KinectRobotics_Content.g.cs
+C:\Users\Kiran N\Desktop\FInal code\KinectRobotics\KinectRobotics\obj\Debug\KinectRobotics_MarkupCompile.cache
+C:\Users\Kiran N\Desktop\FInal code\KinectRobotics\KinectRobotics\obj\Debug\KinectRobotics_MarkupCompile.lref
+C:\Users\Kiran N\Desktop\FInal code\KinectRobotics\KinectRobotics\obj\Debug\MainWindow.baml
+C:\Users\Kiran N\Desktop\FInal code\KinectRobotics\KinectRobotics\obj\Debug\KinectRobotics.g.resources
+C:\Users\Kiran N\Desktop\FInal code\KinectRobotics\KinectRobotics\obj\Debug\KinectRobotics.Properties.Resources.resources
+C:\Users\Kiran N\Desktop\FInal code\KinectRobotics\KinectRobotics\obj\Debug\KinectRobotics.csproj.GenerateResource.Cache
+C:\Users\ADMIN\Desktop\FINAL CODE\KinectRobotics\KinectRobotics\bin\Debug\KinectRobotics.exe.config
+C:\Users\ADMIN\Desktop\FINAL CODE\KinectRobotics\KinectRobotics\obj\Debug\KinectRobotics.exe
+C:\Users\ADMIN\Desktop\FINAL CODE\KinectRobotics\KinectRobotics\obj\Debug\KinectRobotics.pdb
+C:\Users\ADMIN\Desktop\FINAL CODE\KinectRobotics\KinectRobotics\bin\Debug\KinectInteraction170_32.dll
+C:\Users\ADMIN\Desktop\FINAL CODE\KinectRobotics\KinectRobotics\bin\Debug\KinectInteraction170_64.dll
+C:\Users\ADMIN\Desktop\FINAL CODE\KinectRobotics\KinectRobotics\bin\Debug\KinectRobotics.exe
+C:\Users\ADMIN\Desktop\FINAL CODE\KinectRobotics\KinectRobotics\bin\Debug\KinectRobotics.pdb
+C:\Users\ADMIN\Desktop\FINAL CODE\KinectRobotics\KinectRobotics\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\ADMIN\Desktop\FINAL CODE\KinectRobotics\KinectRobotics\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\ADMIN\Desktop\FINAL CODE\KinectRobotics\KinectRobotics\bin\Debug\Microsoft.Samples.Kinect.SwipeGestureRecognizer.dll
+C:\Users\ADMIN\Desktop\FINAL CODE\KinectRobotics\KinectRobotics\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\ADMIN\Desktop\FINAL CODE\KinectRobotics\KinectRobotics\bin\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\ADMIN\Desktop\FINAL CODE\KinectRobotics\KinectRobotics\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\ADMIN\Desktop\FINAL CODE\KinectRobotics\KinectRobotics\obj\Debug\KinectRobotics.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Desktop\FINAL CODE\KinectRobotics\KinectRobotics\obj\Debug\ArmControl.baml
+C:\Users\ADMIN\Desktop\FINAL CODE\KinectRobotics\KinectRobotics\obj\Debug\BaseControl.baml
+C:\Users\ADMIN\Desktop\FINAL CODE\KinectRobotics\KinectRobotics\obj\Debug\ArmControl.g.cs
+C:\Users\ADMIN\Desktop\FINAL CODE\KinectRobotics\KinectRobotics\obj\Debug\BaseControl.g.cs
+C:\Users\ADMIN\Desktop\FINAL CODE\KinectRobotics\KinectRobotics\obj\Debug\MainWindow.g.cs
+C:\Users\ADMIN\Desktop\FINAL CODE\KinectRobotics\KinectRobotics\obj\Debug\App.g.cs
+C:\Users\ADMIN\Desktop\FINAL CODE\KinectRobotics\KinectRobotics\obj\Debug\KinectRobotics_Content.g.cs
+C:\Users\ADMIN\Desktop\FINAL CODE\KinectRobotics\KinectRobotics\obj\Debug\KinectRobotics_MarkupCompile.cache
+C:\Users\ADMIN\Desktop\FINAL CODE\KinectRobotics\KinectRobotics\obj\Debug\KinectRobotics_MarkupCompile.lref
+C:\Users\ADMIN\Desktop\FINAL CODE\KinectRobotics\KinectRobotics\obj\Debug\MainWindow.baml
+C:\Users\ADMIN\Desktop\FINAL CODE\KinectRobotics\KinectRobotics\obj\Debug\KinectRobotics.g.resources
+C:\Users\ADMIN\Desktop\FINAL CODE\KinectRobotics\KinectRobotics\obj\Debug\KinectRobotics.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\FINAL CODE\KinectRobotics\KinectRobotics\obj\Debug\KinectRobotics.csproj.GenerateResource.Cache
+C:\Users\ADMIN\Desktop\KinectRobotics\KinectRobotics\bin\Debug\KinectRobotics.exe.config
+C:\Users\ADMIN\Desktop\KinectRobotics\KinectRobotics\obj\Debug\KinectRobotics.exe
+C:\Users\ADMIN\Desktop\KinectRobotics\KinectRobotics\obj\Debug\KinectRobotics.pdb
+C:\Users\ADMIN\Desktop\KinectRobotics\KinectRobotics\bin\Debug\KinectInteraction170_32.dll
+C:\Users\ADMIN\Desktop\KinectRobotics\KinectRobotics\bin\Debug\KinectInteraction170_64.dll
+C:\Users\ADMIN\Desktop\KinectRobotics\KinectRobotics\bin\Debug\KinectRobotics.exe
+C:\Users\ADMIN\Desktop\KinectRobotics\KinectRobotics\bin\Debug\KinectRobotics.pdb
+C:\Users\ADMIN\Desktop\KinectRobotics\KinectRobotics\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\ADMIN\Desktop\KinectRobotics\KinectRobotics\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\ADMIN\Desktop\KinectRobotics\KinectRobotics\bin\Debug\Microsoft.Samples.Kinect.SwipeGestureRecognizer.dll
+C:\Users\ADMIN\Desktop\KinectRobotics\KinectRobotics\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\ADMIN\Desktop\KinectRobotics\KinectRobotics\bin\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\ADMIN\Desktop\KinectRobotics\KinectRobotics\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\ADMIN\Desktop\KinectRobotics\KinectRobotics\obj\Debug\KinectRobotics.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Desktop\KinectRobotics\KinectRobotics\obj\Debug\ArmControl.baml
+C:\Users\ADMIN\Desktop\KinectRobotics\KinectRobotics\obj\Debug\BaseControl.baml
+C:\Users\ADMIN\Desktop\KinectRobotics\KinectRobotics\obj\Debug\ArmControl.g.cs
+C:\Users\ADMIN\Desktop\KinectRobotics\KinectRobotics\obj\Debug\BaseControl.g.cs
+C:\Users\ADMIN\Desktop\KinectRobotics\KinectRobotics\obj\Debug\MainWindow.g.cs
+C:\Users\ADMIN\Desktop\KinectRobotics\KinectRobotics\obj\Debug\App.g.cs
+C:\Users\ADMIN\Desktop\KinectRobotics\KinectRobotics\obj\Debug\KinectRobotics_Content.g.cs
+C:\Users\ADMIN\Desktop\KinectRobotics\KinectRobotics\obj\Debug\KinectRobotics_MarkupCompile.cache
+C:\Users\ADMIN\Desktop\KinectRobotics\KinectRobotics\obj\Debug\KinectRobotics_MarkupCompile.lref
+C:\Users\ADMIN\Desktop\KinectRobotics\KinectRobotics\obj\Debug\MainWindow.baml
+C:\Users\ADMIN\Desktop\KinectRobotics\KinectRobotics\obj\Debug\KinectRobotics.g.resources
+C:\Users\ADMIN\Desktop\KinectRobotics\KinectRobotics\obj\Debug\KinectRobotics.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\KinectRobotics\KinectRobotics\obj\Debug\KinectRobotics.csproj.GenerateResource.Cache
+C:\Users\Kiran N\Desktop\CODE FOR DEMO\KinectRobotics\KinectRobotics\bin\Debug\KinectRobotics.exe.config
+C:\Users\Kiran N\Desktop\CODE FOR DEMO\KinectRobotics\KinectRobotics\obj\Debug\KinectRobotics.exe
+C:\Users\Kiran N\Desktop\CODE FOR DEMO\KinectRobotics\KinectRobotics\obj\Debug\KinectRobotics.pdb
+C:\Users\Kiran N\Desktop\CODE FOR DEMO\KinectRobotics\KinectRobotics\bin\Debug\KinectInteraction170_32.dll
+C:\Users\Kiran N\Desktop\CODE FOR DEMO\KinectRobotics\KinectRobotics\bin\Debug\KinectInteraction170_64.dll
+C:\Users\Kiran N\Desktop\CODE FOR DEMO\KinectRobotics\KinectRobotics\bin\Debug\KinectRobotics.exe
+C:\Users\Kiran N\Desktop\CODE FOR DEMO\KinectRobotics\KinectRobotics\bin\Debug\KinectRobotics.pdb
+C:\Users\Kiran N\Desktop\CODE FOR DEMO\KinectRobotics\KinectRobotics\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Kiran N\Desktop\CODE FOR DEMO\KinectRobotics\KinectRobotics\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Kiran N\Desktop\CODE FOR DEMO\KinectRobotics\KinectRobotics\bin\Debug\Microsoft.Samples.Kinect.SwipeGestureRecognizer.dll
+C:\Users\Kiran N\Desktop\CODE FOR DEMO\KinectRobotics\KinectRobotics\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Kiran N\Desktop\CODE FOR DEMO\KinectRobotics\KinectRobotics\bin\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Kiran N\Desktop\CODE FOR DEMO\KinectRobotics\KinectRobotics\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Kiran N\Desktop\CODE FOR DEMO\KinectRobotics\KinectRobotics\obj\Debug\KinectRobotics.csprojResolveAssemblyReference.cache
+C:\Users\Kiran N\Desktop\CODE FOR DEMO\KinectRobotics\KinectRobotics\obj\Debug\ArmControl.baml
+C:\Users\Kiran N\Desktop\CODE FOR DEMO\KinectRobotics\KinectRobotics\obj\Debug\BaseControl.baml
+C:\Users\Kiran N\Desktop\CODE FOR DEMO\KinectRobotics\KinectRobotics\obj\Debug\ArmControl.g.cs
+C:\Users\Kiran N\Desktop\CODE FOR DEMO\KinectRobotics\KinectRobotics\obj\Debug\BaseControl.g.cs
+C:\Users\Kiran N\Desktop\CODE FOR DEMO\KinectRobotics\KinectRobotics\obj\Debug\MainWindow.g.cs
+C:\Users\Kiran N\Desktop\CODE FOR DEMO\KinectRobotics\KinectRobotics\obj\Debug\App.g.cs
+C:\Users\Kiran N\Desktop\CODE FOR DEMO\KinectRobotics\KinectRobotics\obj\Debug\KinectRobotics_Content.g.cs
+C:\Users\Kiran N\Desktop\CODE FOR DEMO\KinectRobotics\KinectRobotics\obj\Debug\KinectRobotics_MarkupCompile.cache
+C:\Users\Kiran N\Desktop\CODE FOR DEMO\KinectRobotics\KinectRobotics\obj\Debug\KinectRobotics_MarkupCompile.lref
+C:\Users\Kiran N\Desktop\CODE FOR DEMO\KinectRobotics\KinectRobotics\obj\Debug\MainWindow.baml
+C:\Users\Kiran N\Desktop\CODE FOR DEMO\KinectRobotics\KinectRobotics\obj\Debug\KinectRobotics.g.resources
+C:\Users\Kiran N\Desktop\CODE FOR DEMO\KinectRobotics\KinectRobotics\obj\Debug\KinectRobotics.Properties.Resources.resources
+C:\Users\Kiran N\Desktop\CODE FOR DEMO\KinectRobotics\KinectRobotics\obj\Debug\KinectRobotics.csproj.GenerateResource.Cache
+C:\Users\Kiran N\Desktop\CODE FOR DEMO - Copy\KinectRobotics\KinectRobotics\bin\Debug\KinectRobotics.exe.config
+C:\Users\Kiran N\Desktop\CODE FOR DEMO - Copy\KinectRobotics\KinectRobotics\obj\Debug\KinectRobotics.exe
+C:\Users\Kiran N\Desktop\CODE FOR DEMO - Copy\KinectRobotics\KinectRobotics\obj\Debug\KinectRobotics.pdb
+C:\Users\Kiran N\Desktop\CODE FOR DEMO - Copy\KinectRobotics\KinectRobotics\bin\Debug\KinectInteraction170_32.dll
+C:\Users\Kiran N\Desktop\CODE FOR DEMO - Copy\KinectRobotics\KinectRobotics\bin\Debug\KinectInteraction170_64.dll
+C:\Users\Kiran N\Desktop\CODE FOR DEMO - Copy\KinectRobotics\KinectRobotics\bin\Debug\KinectRobotics.exe
+C:\Users\Kiran N\Desktop\CODE FOR DEMO - Copy\KinectRobotics\KinectRobotics\bin\Debug\KinectRobotics.pdb
+C:\Users\Kiran N\Desktop\CODE FOR DEMO - Copy\KinectRobotics\KinectRobotics\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Kiran N\Desktop\CODE FOR DEMO - Copy\KinectRobotics\KinectRobotics\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Kiran N\Desktop\CODE FOR DEMO - Copy\KinectRobotics\KinectRobotics\bin\Debug\Microsoft.Samples.Kinect.SwipeGestureRecognizer.dll
+C:\Users\Kiran N\Desktop\CODE FOR DEMO - Copy\KinectRobotics\KinectRobotics\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Kiran N\Desktop\CODE FOR DEMO - Copy\KinectRobotics\KinectRobotics\bin\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Kiran N\Desktop\CODE FOR DEMO - Copy\KinectRobotics\KinectRobotics\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Kiran N\Desktop\CODE FOR DEMO - Copy\KinectRobotics\KinectRobotics\obj\Debug\KinectRobotics.csprojResolveAssemblyReference.cache
+C:\Users\Kiran N\Desktop\CODE FOR DEMO - Copy\KinectRobotics\KinectRobotics\obj\Debug\ArmControl.baml
+C:\Users\Kiran N\Desktop\CODE FOR DEMO - Copy\KinectRobotics\KinectRobotics\obj\Debug\BaseControl.baml
+C:\Users\Kiran N\Desktop\CODE FOR DEMO - Copy\KinectRobotics\KinectRobotics\obj\Debug\ArmControl.g.cs
+C:\Users\Kiran N\Desktop\CODE FOR DEMO - Copy\KinectRobotics\KinectRobotics\obj\Debug\BaseControl.g.cs
+C:\Users\Kiran N\Desktop\CODE FOR DEMO - Copy\KinectRobotics\KinectRobotics\obj\Debug\MainWindow.g.cs
+C:\Users\Kiran N\Desktop\CODE FOR DEMO - Copy\KinectRobotics\KinectRobotics\obj\Debug\App.g.cs
+C:\Users\Kiran N\Desktop\CODE FOR DEMO - Copy\KinectRobotics\KinectRobotics\obj\Debug\KinectRobotics_Content.g.cs
+C:\Users\Kiran N\Desktop\CODE FOR DEMO - Copy\KinectRobotics\KinectRobotics\obj\Debug\KinectRobotics_MarkupCompile.cache
+C:\Users\Kiran N\Desktop\CODE FOR DEMO - Copy\KinectRobotics\KinectRobotics\obj\Debug\KinectRobotics_MarkupCompile.lref
+C:\Users\Kiran N\Desktop\CODE FOR DEMO - Copy\KinectRobotics\KinectRobotics\obj\Debug\MainWindow.baml
+C:\Users\Kiran N\Desktop\CODE FOR DEMO - Copy\KinectRobotics\KinectRobotics\obj\Debug\KinectRobotics.g.resources
+C:\Users\Kiran N\Desktop\CODE FOR DEMO - Copy\KinectRobotics\KinectRobotics\obj\Debug\KinectRobotics.Properties.Resources.resources
+C:\Users\Kiran N\Desktop\CODE FOR DEMO - Copy\KinectRobotics\KinectRobotics\obj\Debug\KinectRobotics.csproj.GenerateResource.Cache
+C:\Users\Kiran N\Desktop\Final working code with\KinectRobotics\KinectRobotics\bin\Debug\KinectRobotics.exe.config
+C:\Users\Kiran N\Desktop\Final working code with\KinectRobotics\KinectRobotics\obj\Debug\KinectRobotics.exe
+C:\Users\Kiran N\Desktop\Final working code with\KinectRobotics\KinectRobotics\obj\Debug\KinectRobotics.pdb
+C:\Users\Kiran N\Desktop\Final working code with\KinectRobotics\KinectRobotics\bin\Debug\KinectInteraction170_32.dll
+C:\Users\Kiran N\Desktop\Final working code with\KinectRobotics\KinectRobotics\bin\Debug\KinectInteraction170_64.dll
+C:\Users\Kiran N\Desktop\Final working code with\KinectRobotics\KinectRobotics\bin\Debug\KinectRobotics.exe
+C:\Users\Kiran N\Desktop\Final working code with\KinectRobotics\KinectRobotics\bin\Debug\KinectRobotics.pdb
+C:\Users\Kiran N\Desktop\Final working code with\KinectRobotics\KinectRobotics\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Kiran N\Desktop\Final working code with\KinectRobotics\KinectRobotics\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Kiran N\Desktop\Final working code with\KinectRobotics\KinectRobotics\bin\Debug\Microsoft.Samples.Kinect.SwipeGestureRecognizer.dll
+C:\Users\Kiran N\Desktop\Final working code with\KinectRobotics\KinectRobotics\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Kiran N\Desktop\Final working code with\KinectRobotics\KinectRobotics\bin\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Kiran N\Desktop\Final working code with\KinectRobotics\KinectRobotics\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Kiran N\Desktop\Final working code with\KinectRobotics\KinectRobotics\obj\Debug\KinectRobotics.csprojResolveAssemblyReference.cache
+C:\Users\Kiran N\Desktop\Final working code with\KinectRobotics\KinectRobotics\obj\Debug\ArmControl.baml
+C:\Users\Kiran N\Desktop\Final working code with\KinectRobotics\KinectRobotics\obj\Debug\BaseControl.baml
+C:\Users\Kiran N\Desktop\Final working code with\KinectRobotics\KinectRobotics\obj\Debug\ArmControl.g.cs
+C:\Users\Kiran N\Desktop\Final working code with\KinectRobotics\KinectRobotics\obj\Debug\BaseControl.g.cs
+C:\Users\Kiran N\Desktop\Final working code with\KinectRobotics\KinectRobotics\obj\Debug\MainWindow.g.cs
+C:\Users\Kiran N\Desktop\Final working code with\KinectRobotics\KinectRobotics\obj\Debug\App.g.cs
+C:\Users\Kiran N\Desktop\Final working code with\KinectRobotics\KinectRobotics\obj\Debug\KinectRobotics_Content.g.cs
+C:\Users\Kiran N\Desktop\Final working code with\KinectRobotics\KinectRobotics\obj\Debug\KinectRobotics_MarkupCompile.cache
+C:\Users\Kiran N\Desktop\Final working code with\KinectRobotics\KinectRobotics\obj\Debug\KinectRobotics_MarkupCompile.lref
+C:\Users\Kiran N\Desktop\Final working code with\KinectRobotics\KinectRobotics\obj\Debug\MainWindow.baml
+C:\Users\Kiran N\Desktop\Final working code with\KinectRobotics\KinectRobotics\obj\Debug\KinectRobotics.g.resources
+C:\Users\Kiran N\Desktop\Final working code with\KinectRobotics\KinectRobotics\obj\Debug\KinectRobotics.Properties.Resources.resources
+C:\Users\Kiran N\Desktop\Final working code with\KinectRobotics\KinectRobotics\obj\Debug\KinectRobotics.csproj.GenerateResource.Cache
